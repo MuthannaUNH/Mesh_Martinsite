@@ -1,0 +1,3920 @@
+diatoms
+  package 'crack'
+    material 10000
+    insert stl
+      FILE = 'sculpt_stls/crack.stl'
+    endinsert
+  endpackage
+  package 'crack_tip'
+    material 20000
+    insert stl
+      FILE = 'sculpt_stls/crack_tip.stl'
+    endinsert
+  endpackage
+  package 'volume_0'
+    material 1
+    insert stl
+      FILE = 'sculpt_stls/Feature_0.stl'
+    endinsert
+  endpackage
+  package 'volume_1'
+    material 2
+    insert stl
+      FILE = 'sculpt_stls/Feature_1.stl'
+    endinsert
+  endpackage
+  package 'volume_2'
+    material 3
+    insert stl
+      FILE = 'sculpt_stls/Feature_2.stl'
+    endinsert
+  endpackage
+  package 'volume_3'
+    material 4
+    insert stl
+      FILE = 'sculpt_stls/Feature_3.stl'
+    endinsert
+  endpackage
+  package 'volume_4'
+    material 5
+    insert stl
+      FILE = 'sculpt_stls/Feature_4.stl'
+    endinsert
+  endpackage
+  package 'volume_5'
+    material 6
+    insert stl
+      FILE = 'sculpt_stls/Feature_5.stl'
+    endinsert
+  endpackage
+  package 'volume_6'
+    material 7
+    insert stl
+      FILE = 'sculpt_stls/Feature_6.stl'
+    endinsert
+  endpackage
+  package 'volume_7'
+    material 8
+    insert stl
+      FILE = 'sculpt_stls/Feature_7.stl'
+    endinsert
+  endpackage
+  package 'volume_8'
+    material 9
+    insert stl
+      FILE = 'sculpt_stls/Feature_8.stl'
+    endinsert
+  endpackage
+  package 'volume_9'
+    material 10
+    insert stl
+      FILE = 'sculpt_stls/Feature_9.stl'
+    endinsert
+  endpackage
+  package 'volume_10'
+    material 11
+    insert stl
+      FILE = 'sculpt_stls/Feature_10.stl'
+    endinsert
+  endpackage
+  package 'volume_11'
+    material 12
+    insert stl
+      FILE = 'sculpt_stls/Feature_11.stl'
+    endinsert
+  endpackage
+  package 'volume_12'
+    material 13
+    insert stl
+      FILE = 'sculpt_stls/Feature_12.stl'
+    endinsert
+  endpackage
+  package 'volume_13'
+    material 14
+    insert stl
+      FILE = 'sculpt_stls/Feature_13.stl'
+    endinsert
+  endpackage
+  package 'volume_14'
+    material 15
+    insert stl
+      FILE = 'sculpt_stls/Feature_14.stl'
+    endinsert
+  endpackage
+  package 'volume_15'
+    material 16
+    insert stl
+      FILE = 'sculpt_stls/Feature_15.stl'
+    endinsert
+  endpackage
+  package 'volume_16'
+    material 17
+    insert stl
+      FILE = 'sculpt_stls/Feature_16.stl'
+    endinsert
+  endpackage
+  package 'volume_17'
+    material 18
+    insert stl
+      FILE = 'sculpt_stls/Feature_17.stl'
+    endinsert
+  endpackage
+  package 'volume_18'
+    material 19
+    insert stl
+      FILE = 'sculpt_stls/Feature_18.stl'
+    endinsert
+  endpackage
+  package 'volume_19'
+    material 20
+    insert stl
+      FILE = 'sculpt_stls/Feature_19.stl'
+    endinsert
+  endpackage
+  package 'volume_20'
+    material 21
+    insert stl
+      FILE = 'sculpt_stls/Feature_20.stl'
+    endinsert
+  endpackage
+  package 'volume_21'
+    material 22
+    insert stl
+      FILE = 'sculpt_stls/Feature_21.stl'
+    endinsert
+  endpackage
+  package 'volume_22'
+    material 23
+    insert stl
+      FILE = 'sculpt_stls/Feature_22.stl'
+    endinsert
+  endpackage
+  package 'volume_23'
+    material 24
+    insert stl
+      FILE = 'sculpt_stls/Feature_23.stl'
+    endinsert
+  endpackage
+  package 'volume_24'
+    material 25
+    insert stl
+      FILE = 'sculpt_stls/Feature_24.stl'
+    endinsert
+  endpackage
+  package 'volume_25'
+    material 26
+    insert stl
+      FILE = 'sculpt_stls/Feature_25.stl'
+    endinsert
+  endpackage
+  package 'volume_26'
+    material 27
+    insert stl
+      FILE = 'sculpt_stls/Feature_26.stl'
+    endinsert
+  endpackage
+  package 'volume_27'
+    material 28
+    insert stl
+      FILE = 'sculpt_stls/Feature_27.stl'
+    endinsert
+  endpackage
+  package 'volume_28'
+    material 29
+    insert stl
+      FILE = 'sculpt_stls/Feature_28.stl'
+    endinsert
+  endpackage
+  package 'volume_29'
+    material 30
+    insert stl
+      FILE = 'sculpt_stls/Feature_29.stl'
+    endinsert
+  endpackage
+  package 'volume_30'
+    material 31
+    insert stl
+      FILE = 'sculpt_stls/Feature_30.stl'
+    endinsert
+  endpackage
+  package 'volume_31'
+    material 32
+    insert stl
+      FILE = 'sculpt_stls/Feature_31.stl'
+    endinsert
+  endpackage
+  package 'volume_32'
+    material 33
+    insert stl
+      FILE = 'sculpt_stls/Feature_32.stl'
+    endinsert
+  endpackage
+  package 'volume_33'
+    material 34
+    insert stl
+      FILE = 'sculpt_stls/Feature_33.stl'
+    endinsert
+  endpackage
+  package 'volume_34'
+    material 35
+    insert stl
+      FILE = 'sculpt_stls/Feature_34.stl'
+    endinsert
+  endpackage
+  package 'volume_35'
+    material 36
+    insert stl
+      FILE = 'sculpt_stls/Feature_35.stl'
+    endinsert
+  endpackage
+  package 'volume_36'
+    material 37
+    insert stl
+      FILE = 'sculpt_stls/Feature_36.stl'
+    endinsert
+  endpackage
+  package 'volume_37'
+    material 38
+    insert stl
+      FILE = 'sculpt_stls/Feature_37.stl'
+    endinsert
+  endpackage
+  package 'volume_38'
+    material 39
+    insert stl
+      FILE = 'sculpt_stls/Feature_38.stl'
+    endinsert
+  endpackage
+  package 'volume_39'
+    material 40
+    insert stl
+      FILE = 'sculpt_stls/Feature_39.stl'
+    endinsert
+  endpackage
+  package 'volume_40'
+    material 41
+    insert stl
+      FILE = 'sculpt_stls/Feature_40.stl'
+    endinsert
+  endpackage
+  package 'volume_41'
+    material 42
+    insert stl
+      FILE = 'sculpt_stls/Feature_41.stl'
+    endinsert
+  endpackage
+  package 'volume_42'
+    material 43
+    insert stl
+      FILE = 'sculpt_stls/Feature_42.stl'
+    endinsert
+  endpackage
+  package 'volume_43'
+    material 44
+    insert stl
+      FILE = 'sculpt_stls/Feature_43.stl'
+    endinsert
+  endpackage
+  package 'volume_44'
+    material 45
+    insert stl
+      FILE = 'sculpt_stls/Feature_44.stl'
+    endinsert
+  endpackage
+  package 'volume_45'
+    material 46
+    insert stl
+      FILE = 'sculpt_stls/Feature_45.stl'
+    endinsert
+  endpackage
+  package 'volume_46'
+    material 47
+    insert stl
+      FILE = 'sculpt_stls/Feature_46.stl'
+    endinsert
+  endpackage
+  package 'volume_47'
+    material 48
+    insert stl
+      FILE = 'sculpt_stls/Feature_47.stl'
+    endinsert
+  endpackage
+  package 'volume_48'
+    material 49
+    insert stl
+      FILE = 'sculpt_stls/Feature_48.stl'
+    endinsert
+  endpackage
+  package 'volume_49'
+    material 50
+    insert stl
+      FILE = 'sculpt_stls/Feature_49.stl'
+    endinsert
+  endpackage
+  package 'volume_50'
+    material 51
+    insert stl
+      FILE = 'sculpt_stls/Feature_50.stl'
+    endinsert
+  endpackage
+  package 'volume_51'
+    material 52
+    insert stl
+      FILE = 'sculpt_stls/Feature_51.stl'
+    endinsert
+  endpackage
+  package 'volume_52'
+    material 53
+    insert stl
+      FILE = 'sculpt_stls/Feature_52.stl'
+    endinsert
+  endpackage
+  package 'volume_53'
+    material 54
+    insert stl
+      FILE = 'sculpt_stls/Feature_53.stl'
+    endinsert
+  endpackage
+  package 'volume_54'
+    material 55
+    insert stl
+      FILE = 'sculpt_stls/Feature_54.stl'
+    endinsert
+  endpackage
+  package 'volume_55'
+    material 56
+    insert stl
+      FILE = 'sculpt_stls/Feature_55.stl'
+    endinsert
+  endpackage
+  package 'volume_56'
+    material 57
+    insert stl
+      FILE = 'sculpt_stls/Feature_56.stl'
+    endinsert
+  endpackage
+  package 'volume_57'
+    material 58
+    insert stl
+      FILE = 'sculpt_stls/Feature_57.stl'
+    endinsert
+  endpackage
+  package 'volume_58'
+    material 59
+    insert stl
+      FILE = 'sculpt_stls/Feature_58.stl'
+    endinsert
+  endpackage
+  package 'volume_59'
+    material 60
+    insert stl
+      FILE = 'sculpt_stls/Feature_59.stl'
+    endinsert
+  endpackage
+  package 'volume_60'
+    material 61
+    insert stl
+      FILE = 'sculpt_stls/Feature_60.stl'
+    endinsert
+  endpackage
+  package 'volume_61'
+    material 62
+    insert stl
+      FILE = 'sculpt_stls/Feature_61.stl'
+    endinsert
+  endpackage
+  package 'volume_62'
+    material 63
+    insert stl
+      FILE = 'sculpt_stls/Feature_62.stl'
+    endinsert
+  endpackage
+  package 'volume_63'
+    material 64
+    insert stl
+      FILE = 'sculpt_stls/Feature_63.stl'
+    endinsert
+  endpackage
+  package 'volume_64'
+    material 65
+    insert stl
+      FILE = 'sculpt_stls/Feature_64.stl'
+    endinsert
+  endpackage
+  package 'volume_65'
+    material 66
+    insert stl
+      FILE = 'sculpt_stls/Feature_65.stl'
+    endinsert
+  endpackage
+  package 'volume_66'
+    material 67
+    insert stl
+      FILE = 'sculpt_stls/Feature_66.stl'
+    endinsert
+  endpackage
+  package 'volume_67'
+    material 68
+    insert stl
+      FILE = 'sculpt_stls/Feature_67.stl'
+    endinsert
+  endpackage
+  package 'volume_68'
+    material 69
+    insert stl
+      FILE = 'sculpt_stls/Feature_68.stl'
+    endinsert
+  endpackage
+  package 'volume_69'
+    material 70
+    insert stl
+      FILE = 'sculpt_stls/Feature_69.stl'
+    endinsert
+  endpackage
+  package 'volume_70'
+    material 71
+    insert stl
+      FILE = 'sculpt_stls/Feature_70.stl'
+    endinsert
+  endpackage
+  package 'volume_71'
+    material 72
+    insert stl
+      FILE = 'sculpt_stls/Feature_71.stl'
+    endinsert
+  endpackage
+  package 'volume_72'
+    material 73
+    insert stl
+      FILE = 'sculpt_stls/Feature_72.stl'
+    endinsert
+  endpackage
+  package 'volume_73'
+    material 74
+    insert stl
+      FILE = 'sculpt_stls/Feature_73.stl'
+    endinsert
+  endpackage
+  package 'volume_74'
+    material 75
+    insert stl
+      FILE = 'sculpt_stls/Feature_74.stl'
+    endinsert
+  endpackage
+  package 'volume_75'
+    material 76
+    insert stl
+      FILE = 'sculpt_stls/Feature_75.stl'
+    endinsert
+  endpackage
+  package 'volume_76'
+    material 77
+    insert stl
+      FILE = 'sculpt_stls/Feature_76.stl'
+    endinsert
+  endpackage
+  package 'volume_77'
+    material 78
+    insert stl
+      FILE = 'sculpt_stls/Feature_77.stl'
+    endinsert
+  endpackage
+  package 'volume_78'
+    material 79
+    insert stl
+      FILE = 'sculpt_stls/Feature_78.stl'
+    endinsert
+  endpackage
+  package 'volume_79'
+    material 80
+    insert stl
+      FILE = 'sculpt_stls/Feature_79.stl'
+    endinsert
+  endpackage
+  package 'volume_80'
+    material 81
+    insert stl
+      FILE = 'sculpt_stls/Feature_80.stl'
+    endinsert
+  endpackage
+  package 'volume_81'
+    material 82
+    insert stl
+      FILE = 'sculpt_stls/Feature_81.stl'
+    endinsert
+  endpackage
+  package 'volume_82'
+    material 83
+    insert stl
+      FILE = 'sculpt_stls/Feature_82.stl'
+    endinsert
+  endpackage
+  package 'volume_83'
+    material 84
+    insert stl
+      FILE = 'sculpt_stls/Feature_83.stl'
+    endinsert
+  endpackage
+  package 'volume_84'
+    material 85
+    insert stl
+      FILE = 'sculpt_stls/Feature_84.stl'
+    endinsert
+  endpackage
+  package 'volume_85'
+    material 86
+    insert stl
+      FILE = 'sculpt_stls/Feature_85.stl'
+    endinsert
+  endpackage
+  package 'volume_86'
+    material 87
+    insert stl
+      FILE = 'sculpt_stls/Feature_86.stl'
+    endinsert
+  endpackage
+  package 'volume_87'
+    material 88
+    insert stl
+      FILE = 'sculpt_stls/Feature_87.stl'
+    endinsert
+  endpackage
+  package 'volume_88'
+    material 89
+    insert stl
+      FILE = 'sculpt_stls/Feature_88.stl'
+    endinsert
+  endpackage
+  package 'volume_89'
+    material 90
+    insert stl
+      FILE = 'sculpt_stls/Feature_89.stl'
+    endinsert
+  endpackage
+  package 'volume_90'
+    material 91
+    insert stl
+      FILE = 'sculpt_stls/Feature_90.stl'
+    endinsert
+  endpackage
+  package 'volume_91'
+    material 92
+    insert stl
+      FILE = 'sculpt_stls/Feature_91.stl'
+    endinsert
+  endpackage
+  package 'volume_92'
+    material 93
+    insert stl
+      FILE = 'sculpt_stls/Feature_92.stl'
+    endinsert
+  endpackage
+  package 'volume_93'
+    material 94
+    insert stl
+      FILE = 'sculpt_stls/Feature_93.stl'
+    endinsert
+  endpackage
+  package 'volume_94'
+    material 95
+    insert stl
+      FILE = 'sculpt_stls/Feature_94.stl'
+    endinsert
+  endpackage
+  package 'volume_95'
+    material 96
+    insert stl
+      FILE = 'sculpt_stls/Feature_95.stl'
+    endinsert
+  endpackage
+  package 'volume_96'
+    material 97
+    insert stl
+      FILE = 'sculpt_stls/Feature_96.stl'
+    endinsert
+  endpackage
+  package 'volume_97'
+    material 98
+    insert stl
+      FILE = 'sculpt_stls/Feature_97.stl'
+    endinsert
+  endpackage
+  package 'volume_98'
+    material 99
+    insert stl
+      FILE = 'sculpt_stls/Feature_98.stl'
+    endinsert
+  endpackage
+  package 'volume_99'
+    material 100
+    insert stl
+      FILE = 'sculpt_stls/Feature_99.stl'
+    endinsert
+  endpackage
+  package 'volume_100'
+    material 101
+    insert stl
+      FILE = 'sculpt_stls/Feature_100.stl'
+    endinsert
+  endpackage
+  package 'volume_101'
+    material 102
+    insert stl
+      FILE = 'sculpt_stls/Feature_101.stl'
+    endinsert
+  endpackage
+  package 'volume_102'
+    material 103
+    insert stl
+      FILE = 'sculpt_stls/Feature_102.stl'
+    endinsert
+  endpackage
+  package 'volume_103'
+    material 104
+    insert stl
+      FILE = 'sculpt_stls/Feature_103.stl'
+    endinsert
+  endpackage
+  package 'volume_104'
+    material 105
+    insert stl
+      FILE = 'sculpt_stls/Feature_104.stl'
+    endinsert
+  endpackage
+  package 'volume_105'
+    material 106
+    insert stl
+      FILE = 'sculpt_stls/Feature_105.stl'
+    endinsert
+  endpackage
+  package 'volume_106'
+    material 107
+    insert stl
+      FILE = 'sculpt_stls/Feature_106.stl'
+    endinsert
+  endpackage
+  package 'volume_107'
+    material 108
+    insert stl
+      FILE = 'sculpt_stls/Feature_107.stl'
+    endinsert
+  endpackage
+  package 'volume_108'
+    material 109
+    insert stl
+      FILE = 'sculpt_stls/Feature_108.stl'
+    endinsert
+  endpackage
+  package 'volume_109'
+    material 110
+    insert stl
+      FILE = 'sculpt_stls/Feature_109.stl'
+    endinsert
+  endpackage
+  package 'volume_110'
+    material 111
+    insert stl
+      FILE = 'sculpt_stls/Feature_110.stl'
+    endinsert
+  endpackage
+  package 'volume_111'
+    material 112
+    insert stl
+      FILE = 'sculpt_stls/Feature_111.stl'
+    endinsert
+  endpackage
+  package 'volume_112'
+    material 113
+    insert stl
+      FILE = 'sculpt_stls/Feature_112.stl'
+    endinsert
+  endpackage
+  package 'volume_113'
+    material 114
+    insert stl
+      FILE = 'sculpt_stls/Feature_113.stl'
+    endinsert
+  endpackage
+  package 'volume_114'
+    material 115
+    insert stl
+      FILE = 'sculpt_stls/Feature_114.stl'
+    endinsert
+  endpackage
+  package 'volume_115'
+    material 116
+    insert stl
+      FILE = 'sculpt_stls/Feature_115.stl'
+    endinsert
+  endpackage
+  package 'volume_116'
+    material 117
+    insert stl
+      FILE = 'sculpt_stls/Feature_116.stl'
+    endinsert
+  endpackage
+  package 'volume_117'
+    material 118
+    insert stl
+      FILE = 'sculpt_stls/Feature_117.stl'
+    endinsert
+  endpackage
+  package 'volume_118'
+    material 119
+    insert stl
+      FILE = 'sculpt_stls/Feature_118.stl'
+    endinsert
+  endpackage
+  package 'volume_119'
+    material 120
+    insert stl
+      FILE = 'sculpt_stls/Feature_119.stl'
+    endinsert
+  endpackage
+  package 'volume_120'
+    material 121
+    insert stl
+      FILE = 'sculpt_stls/Feature_120.stl'
+    endinsert
+  endpackage
+  package 'volume_121'
+    material 122
+    insert stl
+      FILE = 'sculpt_stls/Feature_121.stl'
+    endinsert
+  endpackage
+  package 'volume_122'
+    material 123
+    insert stl
+      FILE = 'sculpt_stls/Feature_122.stl'
+    endinsert
+  endpackage
+  package 'volume_123'
+    material 124
+    insert stl
+      FILE = 'sculpt_stls/Feature_123.stl'
+    endinsert
+  endpackage
+  package 'volume_124'
+    material 125
+    insert stl
+      FILE = 'sculpt_stls/Feature_124.stl'
+    endinsert
+  endpackage
+  package 'volume_125'
+    material 126
+    insert stl
+      FILE = 'sculpt_stls/Feature_125.stl'
+    endinsert
+  endpackage
+  package 'volume_126'
+    material 127
+    insert stl
+      FILE = 'sculpt_stls/Feature_126.stl'
+    endinsert
+  endpackage
+  package 'volume_127'
+    material 128
+    insert stl
+      FILE = 'sculpt_stls/Feature_127.stl'
+    endinsert
+  endpackage
+  package 'volume_128'
+    material 129
+    insert stl
+      FILE = 'sculpt_stls/Feature_128.stl'
+    endinsert
+  endpackage
+  package 'volume_129'
+    material 130
+    insert stl
+      FILE = 'sculpt_stls/Feature_129.stl'
+    endinsert
+  endpackage
+  package 'volume_130'
+    material 131
+    insert stl
+      FILE = 'sculpt_stls/Feature_130.stl'
+    endinsert
+  endpackage
+  package 'volume_131'
+    material 132
+    insert stl
+      FILE = 'sculpt_stls/Feature_131.stl'
+    endinsert
+  endpackage
+  package 'volume_132'
+    material 133
+    insert stl
+      FILE = 'sculpt_stls/Feature_132.stl'
+    endinsert
+  endpackage
+  package 'volume_133'
+    material 134
+    insert stl
+      FILE = 'sculpt_stls/Feature_133.stl'
+    endinsert
+  endpackage
+  package 'volume_134'
+    material 135
+    insert stl
+      FILE = 'sculpt_stls/Feature_134.stl'
+    endinsert
+  endpackage
+  package 'volume_135'
+    material 136
+    insert stl
+      FILE = 'sculpt_stls/Feature_135.stl'
+    endinsert
+  endpackage
+  package 'volume_136'
+    material 137
+    insert stl
+      FILE = 'sculpt_stls/Feature_136.stl'
+    endinsert
+  endpackage
+  package 'volume_137'
+    material 138
+    insert stl
+      FILE = 'sculpt_stls/Feature_137.stl'
+    endinsert
+  endpackage
+  package 'volume_138'
+    material 139
+    insert stl
+      FILE = 'sculpt_stls/Feature_138.stl'
+    endinsert
+  endpackage
+  package 'volume_139'
+    material 140
+    insert stl
+      FILE = 'sculpt_stls/Feature_139.stl'
+    endinsert
+  endpackage
+  package 'volume_140'
+    material 141
+    insert stl
+      FILE = 'sculpt_stls/Feature_140.stl'
+    endinsert
+  endpackage
+  package 'volume_141'
+    material 142
+    insert stl
+      FILE = 'sculpt_stls/Feature_141.stl'
+    endinsert
+  endpackage
+  package 'volume_142'
+    material 143
+    insert stl
+      FILE = 'sculpt_stls/Feature_142.stl'
+    endinsert
+  endpackage
+  package 'volume_143'
+    material 144
+    insert stl
+      FILE = 'sculpt_stls/Feature_143.stl'
+    endinsert
+  endpackage
+  package 'volume_144'
+    material 145
+    insert stl
+      FILE = 'sculpt_stls/Feature_144.stl'
+    endinsert
+  endpackage
+  package 'volume_145'
+    material 146
+    insert stl
+      FILE = 'sculpt_stls/Feature_145.stl'
+    endinsert
+  endpackage
+  package 'volume_146'
+    material 147
+    insert stl
+      FILE = 'sculpt_stls/Feature_146.stl'
+    endinsert
+  endpackage
+  package 'volume_147'
+    material 148
+    insert stl
+      FILE = 'sculpt_stls/Feature_147.stl'
+    endinsert
+  endpackage
+  package 'volume_148'
+    material 149
+    insert stl
+      FILE = 'sculpt_stls/Feature_148.stl'
+    endinsert
+  endpackage
+  package 'volume_149'
+    material 150
+    insert stl
+      FILE = 'sculpt_stls/Feature_149.stl'
+    endinsert
+  endpackage
+  package 'volume_150'
+    material 151
+    insert stl
+      FILE = 'sculpt_stls/Feature_150.stl'
+    endinsert
+  endpackage
+  package 'volume_151'
+    material 152
+    insert stl
+      FILE = 'sculpt_stls/Feature_151.stl'
+    endinsert
+  endpackage
+  package 'volume_152'
+    material 153
+    insert stl
+      FILE = 'sculpt_stls/Feature_152.stl'
+    endinsert
+  endpackage
+  package 'volume_153'
+    material 154
+    insert stl
+      FILE = 'sculpt_stls/Feature_153.stl'
+    endinsert
+  endpackage
+  package 'volume_154'
+    material 155
+    insert stl
+      FILE = 'sculpt_stls/Feature_154.stl'
+    endinsert
+  endpackage
+  package 'volume_155'
+    material 156
+    insert stl
+      FILE = 'sculpt_stls/Feature_155.stl'
+    endinsert
+  endpackage
+  package 'volume_156'
+    material 157
+    insert stl
+      FILE = 'sculpt_stls/Feature_156.stl'
+    endinsert
+  endpackage
+  package 'volume_157'
+    material 158
+    insert stl
+      FILE = 'sculpt_stls/Feature_157.stl'
+    endinsert
+  endpackage
+  package 'volume_158'
+    material 159
+    insert stl
+      FILE = 'sculpt_stls/Feature_158.stl'
+    endinsert
+  endpackage
+  package 'volume_159'
+    material 160
+    insert stl
+      FILE = 'sculpt_stls/Feature_159.stl'
+    endinsert
+  endpackage
+  package 'volume_160'
+    material 161
+    insert stl
+      FILE = 'sculpt_stls/Feature_160.stl'
+    endinsert
+  endpackage
+  package 'volume_161'
+    material 162
+    insert stl
+      FILE = 'sculpt_stls/Feature_161.stl'
+    endinsert
+  endpackage
+  package 'volume_162'
+    material 163
+    insert stl
+      FILE = 'sculpt_stls/Feature_162.stl'
+    endinsert
+  endpackage
+  package 'volume_163'
+    material 164
+    insert stl
+      FILE = 'sculpt_stls/Feature_163.stl'
+    endinsert
+  endpackage
+  package 'volume_164'
+    material 165
+    insert stl
+      FILE = 'sculpt_stls/Feature_164.stl'
+    endinsert
+  endpackage
+  package 'volume_165'
+    material 166
+    insert stl
+      FILE = 'sculpt_stls/Feature_165.stl'
+    endinsert
+  endpackage
+  package 'volume_166'
+    material 167
+    insert stl
+      FILE = 'sculpt_stls/Feature_166.stl'
+    endinsert
+  endpackage
+  package 'volume_167'
+    material 168
+    insert stl
+      FILE = 'sculpt_stls/Feature_167.stl'
+    endinsert
+  endpackage
+  package 'volume_168'
+    material 169
+    insert stl
+      FILE = 'sculpt_stls/Feature_168.stl'
+    endinsert
+  endpackage
+  package 'volume_169'
+    material 170
+    insert stl
+      FILE = 'sculpt_stls/Feature_169.stl'
+    endinsert
+  endpackage
+  package 'volume_170'
+    material 171
+    insert stl
+      FILE = 'sculpt_stls/Feature_170.stl'
+    endinsert
+  endpackage
+  package 'volume_171'
+    material 172
+    insert stl
+      FILE = 'sculpt_stls/Feature_171.stl'
+    endinsert
+  endpackage
+  package 'volume_172'
+    material 173
+    insert stl
+      FILE = 'sculpt_stls/Feature_172.stl'
+    endinsert
+  endpackage
+  package 'volume_173'
+    material 174
+    insert stl
+      FILE = 'sculpt_stls/Feature_173.stl'
+    endinsert
+  endpackage
+  package 'volume_174'
+    material 175
+    insert stl
+      FILE = 'sculpt_stls/Feature_174.stl'
+    endinsert
+  endpackage
+  package 'volume_175'
+    material 176
+    insert stl
+      FILE = 'sculpt_stls/Feature_175.stl'
+    endinsert
+  endpackage
+  package 'volume_176'
+    material 177
+    insert stl
+      FILE = 'sculpt_stls/Feature_176.stl'
+    endinsert
+  endpackage
+  package 'volume_177'
+    material 178
+    insert stl
+      FILE = 'sculpt_stls/Feature_177.stl'
+    endinsert
+  endpackage
+  package 'volume_178'
+    material 179
+    insert stl
+      FILE = 'sculpt_stls/Feature_178.stl'
+    endinsert
+  endpackage
+  package 'volume_179'
+    material 180
+    insert stl
+      FILE = 'sculpt_stls/Feature_179.stl'
+    endinsert
+  endpackage
+  package 'volume_180'
+    material 181
+    insert stl
+      FILE = 'sculpt_stls/Feature_180.stl'
+    endinsert
+  endpackage
+  package 'volume_181'
+    material 182
+    insert stl
+      FILE = 'sculpt_stls/Feature_181.stl'
+    endinsert
+  endpackage
+  package 'volume_182'
+    material 183
+    insert stl
+      FILE = 'sculpt_stls/Feature_182.stl'
+    endinsert
+  endpackage
+  package 'volume_183'
+    material 184
+    insert stl
+      FILE = 'sculpt_stls/Feature_183.stl'
+    endinsert
+  endpackage
+  package 'volume_184'
+    material 185
+    insert stl
+      FILE = 'sculpt_stls/Feature_184.stl'
+    endinsert
+  endpackage
+  package 'volume_185'
+    material 186
+    insert stl
+      FILE = 'sculpt_stls/Feature_185.stl'
+    endinsert
+  endpackage
+  package 'volume_186'
+    material 187
+    insert stl
+      FILE = 'sculpt_stls/Feature_186.stl'
+    endinsert
+  endpackage
+  package 'volume_187'
+    material 188
+    insert stl
+      FILE = 'sculpt_stls/Feature_187.stl'
+    endinsert
+  endpackage
+  package 'volume_188'
+    material 189
+    insert stl
+      FILE = 'sculpt_stls/Feature_188.stl'
+    endinsert
+  endpackage
+  package 'volume_189'
+    material 190
+    insert stl
+      FILE = 'sculpt_stls/Feature_189.stl'
+    endinsert
+  endpackage
+  package 'volume_190'
+    material 191
+    insert stl
+      FILE = 'sculpt_stls/Feature_190.stl'
+    endinsert
+  endpackage
+  package 'volume_191'
+    material 192
+    insert stl
+      FILE = 'sculpt_stls/Feature_191.stl'
+    endinsert
+  endpackage
+  package 'volume_192'
+    material 193
+    insert stl
+      FILE = 'sculpt_stls/Feature_192.stl'
+    endinsert
+  endpackage
+  package 'volume_193'
+    material 194
+    insert stl
+      FILE = 'sculpt_stls/Feature_193.stl'
+    endinsert
+  endpackage
+  package 'volume_194'
+    material 195
+    insert stl
+      FILE = 'sculpt_stls/Feature_194.stl'
+    endinsert
+  endpackage
+  package 'volume_195'
+    material 196
+    insert stl
+      FILE = 'sculpt_stls/Feature_195.stl'
+    endinsert
+  endpackage
+  package 'volume_196'
+    material 197
+    insert stl
+      FILE = 'sculpt_stls/Feature_196.stl'
+    endinsert
+  endpackage
+  package 'volume_197'
+    material 198
+    insert stl
+      FILE = 'sculpt_stls/Feature_197.stl'
+    endinsert
+  endpackage
+  package 'volume_198'
+    material 199
+    insert stl
+      FILE = 'sculpt_stls/Feature_198.stl'
+    endinsert
+  endpackage
+  package 'volume_199'
+    material 200
+    insert stl
+      FILE = 'sculpt_stls/Feature_199.stl'
+    endinsert
+  endpackage
+  package 'volume_200'
+    material 201
+    insert stl
+      FILE = 'sculpt_stls/Feature_200.stl'
+    endinsert
+  endpackage
+  package 'volume_201'
+    material 202
+    insert stl
+      FILE = 'sculpt_stls/Feature_201.stl'
+    endinsert
+  endpackage
+  package 'volume_202'
+    material 203
+    insert stl
+      FILE = 'sculpt_stls/Feature_202.stl'
+    endinsert
+  endpackage
+  package 'volume_203'
+    material 204
+    insert stl
+      FILE = 'sculpt_stls/Feature_203.stl'
+    endinsert
+  endpackage
+  package 'volume_204'
+    material 205
+    insert stl
+      FILE = 'sculpt_stls/Feature_204.stl'
+    endinsert
+  endpackage
+  package 'volume_205'
+    material 206
+    insert stl
+      FILE = 'sculpt_stls/Feature_205.stl'
+    endinsert
+  endpackage
+  package 'volume_206'
+    material 207
+    insert stl
+      FILE = 'sculpt_stls/Feature_206.stl'
+    endinsert
+  endpackage
+  package 'volume_207'
+    material 208
+    insert stl
+      FILE = 'sculpt_stls/Feature_207.stl'
+    endinsert
+  endpackage
+  package 'volume_208'
+    material 209
+    insert stl
+      FILE = 'sculpt_stls/Feature_208.stl'
+    endinsert
+  endpackage
+  package 'volume_209'
+    material 210
+    insert stl
+      FILE = 'sculpt_stls/Feature_209.stl'
+    endinsert
+  endpackage
+  package 'volume_210'
+    material 211
+    insert stl
+      FILE = 'sculpt_stls/Feature_210.stl'
+    endinsert
+  endpackage
+  package 'volume_211'
+    material 212
+    insert stl
+      FILE = 'sculpt_stls/Feature_211.stl'
+    endinsert
+  endpackage
+  package 'volume_212'
+    material 213
+    insert stl
+      FILE = 'sculpt_stls/Feature_212.stl'
+    endinsert
+  endpackage
+  package 'volume_213'
+    material 214
+    insert stl
+      FILE = 'sculpt_stls/Feature_213.stl'
+    endinsert
+  endpackage
+  package 'volume_214'
+    material 215
+    insert stl
+      FILE = 'sculpt_stls/Feature_214.stl'
+    endinsert
+  endpackage
+  package 'volume_215'
+    material 216
+    insert stl
+      FILE = 'sculpt_stls/Feature_215.stl'
+    endinsert
+  endpackage
+  package 'volume_216'
+    material 217
+    insert stl
+      FILE = 'sculpt_stls/Feature_216.stl'
+    endinsert
+  endpackage
+  package 'volume_217'
+    material 218
+    insert stl
+      FILE = 'sculpt_stls/Feature_217.stl'
+    endinsert
+  endpackage
+  package 'volume_218'
+    material 219
+    insert stl
+      FILE = 'sculpt_stls/Feature_218.stl'
+    endinsert
+  endpackage
+  package 'volume_219'
+    material 220
+    insert stl
+      FILE = 'sculpt_stls/Feature_219.stl'
+    endinsert
+  endpackage
+  package 'volume_220'
+    material 221
+    insert stl
+      FILE = 'sculpt_stls/Feature_220.stl'
+    endinsert
+  endpackage
+  package 'volume_221'
+    material 222
+    insert stl
+      FILE = 'sculpt_stls/Feature_221.stl'
+    endinsert
+  endpackage
+  package 'volume_222'
+    material 223
+    insert stl
+      FILE = 'sculpt_stls/Feature_222.stl'
+    endinsert
+  endpackage
+  package 'volume_223'
+    material 224
+    insert stl
+      FILE = 'sculpt_stls/Feature_223.stl'
+    endinsert
+  endpackage
+  package 'volume_224'
+    material 225
+    insert stl
+      FILE = 'sculpt_stls/Feature_224.stl'
+    endinsert
+  endpackage
+  package 'volume_225'
+    material 226
+    insert stl
+      FILE = 'sculpt_stls/Feature_225.stl'
+    endinsert
+  endpackage
+  package 'volume_226'
+    material 227
+    insert stl
+      FILE = 'sculpt_stls/Feature_226.stl'
+    endinsert
+  endpackage
+  package 'volume_227'
+    material 228
+    insert stl
+      FILE = 'sculpt_stls/Feature_227.stl'
+    endinsert
+  endpackage
+  package 'volume_228'
+    material 229
+    insert stl
+      FILE = 'sculpt_stls/Feature_228.stl'
+    endinsert
+  endpackage
+  package 'volume_229'
+    material 230
+    insert stl
+      FILE = 'sculpt_stls/Feature_229.stl'
+    endinsert
+  endpackage
+  package 'volume_230'
+    material 231
+    insert stl
+      FILE = 'sculpt_stls/Feature_230.stl'
+    endinsert
+  endpackage
+  package 'volume_231'
+    material 232
+    insert stl
+      FILE = 'sculpt_stls/Feature_231.stl'
+    endinsert
+  endpackage
+  package 'volume_232'
+    material 233
+    insert stl
+      FILE = 'sculpt_stls/Feature_232.stl'
+    endinsert
+  endpackage
+  package 'volume_233'
+    material 234
+    insert stl
+      FILE = 'sculpt_stls/Feature_233.stl'
+    endinsert
+  endpackage
+  package 'volume_234'
+    material 235
+    insert stl
+      FILE = 'sculpt_stls/Feature_234.stl'
+    endinsert
+  endpackage
+  package 'volume_235'
+    material 236
+    insert stl
+      FILE = 'sculpt_stls/Feature_235.stl'
+    endinsert
+  endpackage
+  package 'volume_236'
+    material 237
+    insert stl
+      FILE = 'sculpt_stls/Feature_236.stl'
+    endinsert
+  endpackage
+  package 'volume_237'
+    material 238
+    insert stl
+      FILE = 'sculpt_stls/Feature_237.stl'
+    endinsert
+  endpackage
+  package 'volume_238'
+    material 239
+    insert stl
+      FILE = 'sculpt_stls/Feature_238.stl'
+    endinsert
+  endpackage
+  package 'volume_239'
+    material 240
+    insert stl
+      FILE = 'sculpt_stls/Feature_239.stl'
+    endinsert
+  endpackage
+  package 'volume_240'
+    material 241
+    insert stl
+      FILE = 'sculpt_stls/Feature_240.stl'
+    endinsert
+  endpackage
+  package 'volume_241'
+    material 242
+    insert stl
+      FILE = 'sculpt_stls/Feature_241.stl'
+    endinsert
+  endpackage
+  package 'volume_242'
+    material 243
+    insert stl
+      FILE = 'sculpt_stls/Feature_242.stl'
+    endinsert
+  endpackage
+  package 'volume_243'
+    material 244
+    insert stl
+      FILE = 'sculpt_stls/Feature_243.stl'
+    endinsert
+  endpackage
+  package 'volume_244'
+    material 245
+    insert stl
+      FILE = 'sculpt_stls/Feature_244.stl'
+    endinsert
+  endpackage
+  package 'volume_245'
+    material 246
+    insert stl
+      FILE = 'sculpt_stls/Feature_245.stl'
+    endinsert
+  endpackage
+  package 'volume_246'
+    material 247
+    insert stl
+      FILE = 'sculpt_stls/Feature_246.stl'
+    endinsert
+  endpackage
+  package 'volume_247'
+    material 248
+    insert stl
+      FILE = 'sculpt_stls/Feature_247.stl'
+    endinsert
+  endpackage
+  package 'volume_248'
+    material 249
+    insert stl
+      FILE = 'sculpt_stls/Feature_248.stl'
+    endinsert
+  endpackage
+  package 'volume_249'
+    material 250
+    insert stl
+      FILE = 'sculpt_stls/Feature_249.stl'
+    endinsert
+  endpackage
+  package 'volume_250'
+    material 251
+    insert stl
+      FILE = 'sculpt_stls/Feature_250.stl'
+    endinsert
+  endpackage
+  package 'volume_251'
+    material 252
+    insert stl
+      FILE = 'sculpt_stls/Feature_251.stl'
+    endinsert
+  endpackage
+  package 'volume_252'
+    material 253
+    insert stl
+      FILE = 'sculpt_stls/Feature_252.stl'
+    endinsert
+  endpackage
+  package 'volume_253'
+    material 254
+    insert stl
+      FILE = 'sculpt_stls/Feature_253.stl'
+    endinsert
+  endpackage
+  package 'volume_254'
+    material 255
+    insert stl
+      FILE = 'sculpt_stls/Feature_254.stl'
+    endinsert
+  endpackage
+  package 'volume_255'
+    material 256
+    insert stl
+      FILE = 'sculpt_stls/Feature_255.stl'
+    endinsert
+  endpackage
+  package 'volume_256'
+    material 257
+    insert stl
+      FILE = 'sculpt_stls/Feature_256.stl'
+    endinsert
+  endpackage
+  package 'volume_257'
+    material 258
+    insert stl
+      FILE = 'sculpt_stls/Feature_257.stl'
+    endinsert
+  endpackage
+  package 'volume_258'
+    material 259
+    insert stl
+      FILE = 'sculpt_stls/Feature_258.stl'
+    endinsert
+  endpackage
+  package 'volume_259'
+    material 260
+    insert stl
+      FILE = 'sculpt_stls/Feature_259.stl'
+    endinsert
+  endpackage
+  package 'volume_260'
+    material 261
+    insert stl
+      FILE = 'sculpt_stls/Feature_260.stl'
+    endinsert
+  endpackage
+  package 'volume_261'
+    material 262
+    insert stl
+      FILE = 'sculpt_stls/Feature_261.stl'
+    endinsert
+  endpackage
+  package 'volume_262'
+    material 263
+    insert stl
+      FILE = 'sculpt_stls/Feature_262.stl'
+    endinsert
+  endpackage
+  package 'volume_263'
+    material 264
+    insert stl
+      FILE = 'sculpt_stls/Feature_263.stl'
+    endinsert
+  endpackage
+  package 'volume_264'
+    material 265
+    insert stl
+      FILE = 'sculpt_stls/Feature_264.stl'
+    endinsert
+  endpackage
+  package 'volume_265'
+    material 266
+    insert stl
+      FILE = 'sculpt_stls/Feature_265.stl'
+    endinsert
+  endpackage
+  package 'volume_266'
+    material 267
+    insert stl
+      FILE = 'sculpt_stls/Feature_266.stl'
+    endinsert
+  endpackage
+  package 'volume_267'
+    material 268
+    insert stl
+      FILE = 'sculpt_stls/Feature_267.stl'
+    endinsert
+  endpackage
+  package 'volume_268'
+    material 269
+    insert stl
+      FILE = 'sculpt_stls/Feature_268.stl'
+    endinsert
+  endpackage
+  package 'volume_269'
+    material 270
+    insert stl
+      FILE = 'sculpt_stls/Feature_269.stl'
+    endinsert
+  endpackage
+  package 'volume_270'
+    material 271
+    insert stl
+      FILE = 'sculpt_stls/Feature_270.stl'
+    endinsert
+  endpackage
+  package 'volume_271'
+    material 272
+    insert stl
+      FILE = 'sculpt_stls/Feature_271.stl'
+    endinsert
+  endpackage
+  package 'volume_272'
+    material 273
+    insert stl
+      FILE = 'sculpt_stls/Feature_272.stl'
+    endinsert
+  endpackage
+  package 'volume_273'
+    material 274
+    insert stl
+      FILE = 'sculpt_stls/Feature_273.stl'
+    endinsert
+  endpackage
+  package 'volume_274'
+    material 275
+    insert stl
+      FILE = 'sculpt_stls/Feature_274.stl'
+    endinsert
+  endpackage
+  package 'volume_275'
+    material 276
+    insert stl
+      FILE = 'sculpt_stls/Feature_275.stl'
+    endinsert
+  endpackage
+  package 'volume_276'
+    material 277
+    insert stl
+      FILE = 'sculpt_stls/Feature_276.stl'
+    endinsert
+  endpackage
+  package 'volume_277'
+    material 278
+    insert stl
+      FILE = 'sculpt_stls/Feature_277.stl'
+    endinsert
+  endpackage
+  package 'volume_278'
+    material 279
+    insert stl
+      FILE = 'sculpt_stls/Feature_278.stl'
+    endinsert
+  endpackage
+  package 'volume_279'
+    material 280
+    insert stl
+      FILE = 'sculpt_stls/Feature_279.stl'
+    endinsert
+  endpackage
+  package 'volume_280'
+    material 281
+    insert stl
+      FILE = 'sculpt_stls/Feature_280.stl'
+    endinsert
+  endpackage
+  package 'volume_281'
+    material 282
+    insert stl
+      FILE = 'sculpt_stls/Feature_281.stl'
+    endinsert
+  endpackage
+  package 'volume_282'
+    material 283
+    insert stl
+      FILE = 'sculpt_stls/Feature_282.stl'
+    endinsert
+  endpackage
+  package 'volume_283'
+    material 284
+    insert stl
+      FILE = 'sculpt_stls/Feature_283.stl'
+    endinsert
+  endpackage
+  package 'volume_284'
+    material 285
+    insert stl
+      FILE = 'sculpt_stls/Feature_284.stl'
+    endinsert
+  endpackage
+  package 'volume_285'
+    material 286
+    insert stl
+      FILE = 'sculpt_stls/Feature_285.stl'
+    endinsert
+  endpackage
+  package 'volume_286'
+    material 287
+    insert stl
+      FILE = 'sculpt_stls/Feature_286.stl'
+    endinsert
+  endpackage
+  package 'volume_287'
+    material 288
+    insert stl
+      FILE = 'sculpt_stls/Feature_287.stl'
+    endinsert
+  endpackage
+  package 'volume_288'
+    material 289
+    insert stl
+      FILE = 'sculpt_stls/Feature_288.stl'
+    endinsert
+  endpackage
+  package 'volume_289'
+    material 290
+    insert stl
+      FILE = 'sculpt_stls/Feature_289.stl'
+    endinsert
+  endpackage
+  package 'volume_290'
+    material 291
+    insert stl
+      FILE = 'sculpt_stls/Feature_290.stl'
+    endinsert
+  endpackage
+  package 'volume_291'
+    material 292
+    insert stl
+      FILE = 'sculpt_stls/Feature_291.stl'
+    endinsert
+  endpackage
+  package 'volume_292'
+    material 293
+    insert stl
+      FILE = 'sculpt_stls/Feature_292.stl'
+    endinsert
+  endpackage
+  package 'volume_293'
+    material 294
+    insert stl
+      FILE = 'sculpt_stls/Feature_293.stl'
+    endinsert
+  endpackage
+  package 'volume_294'
+    material 295
+    insert stl
+      FILE = 'sculpt_stls/Feature_294.stl'
+    endinsert
+  endpackage
+  package 'volume_295'
+    material 296
+    insert stl
+      FILE = 'sculpt_stls/Feature_295.stl'
+    endinsert
+  endpackage
+  package 'volume_296'
+    material 297
+    insert stl
+      FILE = 'sculpt_stls/Feature_296.stl'
+    endinsert
+  endpackage
+  package 'volume_297'
+    material 298
+    insert stl
+      FILE = 'sculpt_stls/Feature_297.stl'
+    endinsert
+  endpackage
+  package 'volume_298'
+    material 299
+    insert stl
+      FILE = 'sculpt_stls/Feature_298.stl'
+    endinsert
+  endpackage
+  package 'volume_299'
+    material 300
+    insert stl
+      FILE = 'sculpt_stls/Feature_299.stl'
+    endinsert
+  endpackage
+  package 'volume_300'
+    material 301
+    insert stl
+      FILE = 'sculpt_stls/Feature_300.stl'
+    endinsert
+  endpackage
+  package 'volume_301'
+    material 302
+    insert stl
+      FILE = 'sculpt_stls/Feature_301.stl'
+    endinsert
+  endpackage
+  package 'volume_302'
+    material 303
+    insert stl
+      FILE = 'sculpt_stls/Feature_302.stl'
+    endinsert
+  endpackage
+  package 'volume_303'
+    material 304
+    insert stl
+      FILE = 'sculpt_stls/Feature_303.stl'
+    endinsert
+  endpackage
+  package 'volume_304'
+    material 305
+    insert stl
+      FILE = 'sculpt_stls/Feature_304.stl'
+    endinsert
+  endpackage
+  package 'volume_305'
+    material 306
+    insert stl
+      FILE = 'sculpt_stls/Feature_305.stl'
+    endinsert
+  endpackage
+  package 'volume_306'
+    material 307
+    insert stl
+      FILE = 'sculpt_stls/Feature_306.stl'
+    endinsert
+  endpackage
+  package 'volume_307'
+    material 308
+    insert stl
+      FILE = 'sculpt_stls/Feature_307.stl'
+    endinsert
+  endpackage
+  package 'volume_308'
+    material 309
+    insert stl
+      FILE = 'sculpt_stls/Feature_308.stl'
+    endinsert
+  endpackage
+  package 'volume_309'
+    material 310
+    insert stl
+      FILE = 'sculpt_stls/Feature_309.stl'
+    endinsert
+  endpackage
+  package 'volume_310'
+    material 311
+    insert stl
+      FILE = 'sculpt_stls/Feature_310.stl'
+    endinsert
+  endpackage
+  package 'volume_311'
+    material 312
+    insert stl
+      FILE = 'sculpt_stls/Feature_311.stl'
+    endinsert
+  endpackage
+  package 'volume_312'
+    material 313
+    insert stl
+      FILE = 'sculpt_stls/Feature_312.stl'
+    endinsert
+  endpackage
+  package 'volume_313'
+    material 314
+    insert stl
+      FILE = 'sculpt_stls/Feature_313.stl'
+    endinsert
+  endpackage
+  package 'volume_314'
+    material 315
+    insert stl
+      FILE = 'sculpt_stls/Feature_314.stl'
+    endinsert
+  endpackage
+  package 'volume_315'
+    material 316
+    insert stl
+      FILE = 'sculpt_stls/Feature_315.stl'
+    endinsert
+  endpackage
+  package 'volume_316'
+    material 317
+    insert stl
+      FILE = 'sculpt_stls/Feature_316.stl'
+    endinsert
+  endpackage
+  package 'volume_317'
+    material 318
+    insert stl
+      FILE = 'sculpt_stls/Feature_317.stl'
+    endinsert
+  endpackage
+  package 'volume_318'
+    material 319
+    insert stl
+      FILE = 'sculpt_stls/Feature_318.stl'
+    endinsert
+  endpackage
+  package 'volume_319'
+    material 320
+    insert stl
+      FILE = 'sculpt_stls/Feature_319.stl'
+    endinsert
+  endpackage
+  package 'volume_320'
+    material 321
+    insert stl
+      FILE = 'sculpt_stls/Feature_320.stl'
+    endinsert
+  endpackage
+  package 'volume_321'
+    material 322
+    insert stl
+      FILE = 'sculpt_stls/Feature_321.stl'
+    endinsert
+  endpackage
+  package 'volume_322'
+    material 323
+    insert stl
+      FILE = 'sculpt_stls/Feature_322.stl'
+    endinsert
+  endpackage
+  package 'volume_323'
+    material 324
+    insert stl
+      FILE = 'sculpt_stls/Feature_323.stl'
+    endinsert
+  endpackage
+  package 'volume_324'
+    material 325
+    insert stl
+      FILE = 'sculpt_stls/Feature_324.stl'
+    endinsert
+  endpackage
+  package 'volume_325'
+    material 326
+    insert stl
+      FILE = 'sculpt_stls/Feature_325.stl'
+    endinsert
+  endpackage
+  package 'volume_326'
+    material 327
+    insert stl
+      FILE = 'sculpt_stls/Feature_326.stl'
+    endinsert
+  endpackage
+  package 'volume_327'
+    material 328
+    insert stl
+      FILE = 'sculpt_stls/Feature_327.stl'
+    endinsert
+  endpackage
+  package 'volume_328'
+    material 329
+    insert stl
+      FILE = 'sculpt_stls/Feature_328.stl'
+    endinsert
+  endpackage
+  package 'volume_329'
+    material 330
+    insert stl
+      FILE = 'sculpt_stls/Feature_329.stl'
+    endinsert
+  endpackage
+  package 'volume_330'
+    material 331
+    insert stl
+      FILE = 'sculpt_stls/Feature_330.stl'
+    endinsert
+  endpackage
+  package 'volume_331'
+    material 332
+    insert stl
+      FILE = 'sculpt_stls/Feature_331.stl'
+    endinsert
+  endpackage
+  package 'volume_332'
+    material 333
+    insert stl
+      FILE = 'sculpt_stls/Feature_332.stl'
+    endinsert
+  endpackage
+  package 'volume_333'
+    material 334
+    insert stl
+      FILE = 'sculpt_stls/Feature_333.stl'
+    endinsert
+  endpackage
+  package 'volume_334'
+    material 335
+    insert stl
+      FILE = 'sculpt_stls/Feature_334.stl'
+    endinsert
+  endpackage
+  package 'volume_335'
+    material 336
+    insert stl
+      FILE = 'sculpt_stls/Feature_335.stl'
+    endinsert
+  endpackage
+  package 'volume_336'
+    material 337
+    insert stl
+      FILE = 'sculpt_stls/Feature_336.stl'
+    endinsert
+  endpackage
+  package 'volume_337'
+    material 338
+    insert stl
+      FILE = 'sculpt_stls/Feature_337.stl'
+    endinsert
+  endpackage
+  package 'volume_338'
+    material 339
+    insert stl
+      FILE = 'sculpt_stls/Feature_338.stl'
+    endinsert
+  endpackage
+  package 'volume_339'
+    material 340
+    insert stl
+      FILE = 'sculpt_stls/Feature_339.stl'
+    endinsert
+  endpackage
+  package 'volume_340'
+    material 341
+    insert stl
+      FILE = 'sculpt_stls/Feature_340.stl'
+    endinsert
+  endpackage
+  package 'volume_341'
+    material 342
+    insert stl
+      FILE = 'sculpt_stls/Feature_341.stl'
+    endinsert
+  endpackage
+  package 'volume_342'
+    material 343
+    insert stl
+      FILE = 'sculpt_stls/Feature_342.stl'
+    endinsert
+  endpackage
+  package 'volume_343'
+    material 344
+    insert stl
+      FILE = 'sculpt_stls/Feature_343.stl'
+    endinsert
+  endpackage
+  package 'volume_344'
+    material 345
+    insert stl
+      FILE = 'sculpt_stls/Feature_344.stl'
+    endinsert
+  endpackage
+  package 'volume_345'
+    material 346
+    insert stl
+      FILE = 'sculpt_stls/Feature_345.stl'
+    endinsert
+  endpackage
+  package 'volume_346'
+    material 347
+    insert stl
+      FILE = 'sculpt_stls/Feature_346.stl'
+    endinsert
+  endpackage
+  package 'volume_347'
+    material 348
+    insert stl
+      FILE = 'sculpt_stls/Feature_347.stl'
+    endinsert
+  endpackage
+  package 'volume_348'
+    material 349
+    insert stl
+      FILE = 'sculpt_stls/Feature_348.stl'
+    endinsert
+  endpackage
+  package 'volume_349'
+    material 350
+    insert stl
+      FILE = 'sculpt_stls/Feature_349.stl'
+    endinsert
+  endpackage
+  package 'volume_350'
+    material 351
+    insert stl
+      FILE = 'sculpt_stls/Feature_350.stl'
+    endinsert
+  endpackage
+  package 'volume_351'
+    material 352
+    insert stl
+      FILE = 'sculpt_stls/Feature_351.stl'
+    endinsert
+  endpackage
+  package 'volume_352'
+    material 353
+    insert stl
+      FILE = 'sculpt_stls/Feature_352.stl'
+    endinsert
+  endpackage
+  package 'volume_353'
+    material 354
+    insert stl
+      FILE = 'sculpt_stls/Feature_353.stl'
+    endinsert
+  endpackage
+  package 'volume_354'
+    material 355
+    insert stl
+      FILE = 'sculpt_stls/Feature_354.stl'
+    endinsert
+  endpackage
+  package 'volume_355'
+    material 356
+    insert stl
+      FILE = 'sculpt_stls/Feature_355.stl'
+    endinsert
+  endpackage
+  package 'volume_356'
+    material 357
+    insert stl
+      FILE = 'sculpt_stls/Feature_356.stl'
+    endinsert
+  endpackage
+  package 'volume_357'
+    material 358
+    insert stl
+      FILE = 'sculpt_stls/Feature_357.stl'
+    endinsert
+  endpackage
+  package 'volume_358'
+    material 359
+    insert stl
+      FILE = 'sculpt_stls/Feature_358.stl'
+    endinsert
+  endpackage
+  package 'volume_359'
+    material 360
+    insert stl
+      FILE = 'sculpt_stls/Feature_359.stl'
+    endinsert
+  endpackage
+  package 'volume_360'
+    material 361
+    insert stl
+      FILE = 'sculpt_stls/Feature_360.stl'
+    endinsert
+  endpackage
+  package 'volume_361'
+    material 362
+    insert stl
+      FILE = 'sculpt_stls/Feature_361.stl'
+    endinsert
+  endpackage
+  package 'volume_362'
+    material 363
+    insert stl
+      FILE = 'sculpt_stls/Feature_362.stl'
+    endinsert
+  endpackage
+  package 'volume_363'
+    material 364
+    insert stl
+      FILE = 'sculpt_stls/Feature_363.stl'
+    endinsert
+  endpackage
+  package 'volume_364'
+    material 365
+    insert stl
+      FILE = 'sculpt_stls/Feature_364.stl'
+    endinsert
+  endpackage
+  package 'volume_365'
+    material 366
+    insert stl
+      FILE = 'sculpt_stls/Feature_365.stl'
+    endinsert
+  endpackage
+  package 'volume_366'
+    material 367
+    insert stl
+      FILE = 'sculpt_stls/Feature_366.stl'
+    endinsert
+  endpackage
+  package 'volume_367'
+    material 368
+    insert stl
+      FILE = 'sculpt_stls/Feature_367.stl'
+    endinsert
+  endpackage
+  package 'volume_368'
+    material 369
+    insert stl
+      FILE = 'sculpt_stls/Feature_368.stl'
+    endinsert
+  endpackage
+  package 'volume_369'
+    material 370
+    insert stl
+      FILE = 'sculpt_stls/Feature_369.stl'
+    endinsert
+  endpackage
+  package 'volume_370'
+    material 371
+    insert stl
+      FILE = 'sculpt_stls/Feature_370.stl'
+    endinsert
+  endpackage
+  package 'volume_371'
+    material 372
+    insert stl
+      FILE = 'sculpt_stls/Feature_371.stl'
+    endinsert
+  endpackage
+  package 'volume_372'
+    material 373
+    insert stl
+      FILE = 'sculpt_stls/Feature_372.stl'
+    endinsert
+  endpackage
+  package 'volume_373'
+    material 374
+    insert stl
+      FILE = 'sculpt_stls/Feature_373.stl'
+    endinsert
+  endpackage
+  package 'volume_374'
+    material 375
+    insert stl
+      FILE = 'sculpt_stls/Feature_374.stl'
+    endinsert
+  endpackage
+  package 'volume_375'
+    material 376
+    insert stl
+      FILE = 'sculpt_stls/Feature_375.stl'
+    endinsert
+  endpackage
+  package 'volume_376'
+    material 377
+    insert stl
+      FILE = 'sculpt_stls/Feature_376.stl'
+    endinsert
+  endpackage
+  package 'volume_377'
+    material 378
+    insert stl
+      FILE = 'sculpt_stls/Feature_377.stl'
+    endinsert
+  endpackage
+  package 'volume_378'
+    material 379
+    insert stl
+      FILE = 'sculpt_stls/Feature_378.stl'
+    endinsert
+  endpackage
+  package 'volume_379'
+    material 380
+    insert stl
+      FILE = 'sculpt_stls/Feature_379.stl'
+    endinsert
+  endpackage
+  package 'volume_380'
+    material 381
+    insert stl
+      FILE = 'sculpt_stls/Feature_380.stl'
+    endinsert
+  endpackage
+  package 'volume_381'
+    material 382
+    insert stl
+      FILE = 'sculpt_stls/Feature_381.stl'
+    endinsert
+  endpackage
+  package 'volume_382'
+    material 383
+    insert stl
+      FILE = 'sculpt_stls/Feature_382.stl'
+    endinsert
+  endpackage
+  package 'volume_383'
+    material 384
+    insert stl
+      FILE = 'sculpt_stls/Feature_383.stl'
+    endinsert
+  endpackage
+  package 'volume_384'
+    material 385
+    insert stl
+      FILE = 'sculpt_stls/Feature_384.stl'
+    endinsert
+  endpackage
+  package 'volume_385'
+    material 386
+    insert stl
+      FILE = 'sculpt_stls/Feature_385.stl'
+    endinsert
+  endpackage
+  package 'volume_386'
+    material 387
+    insert stl
+      FILE = 'sculpt_stls/Feature_386.stl'
+    endinsert
+  endpackage
+  package 'volume_387'
+    material 388
+    insert stl
+      FILE = 'sculpt_stls/Feature_387.stl'
+    endinsert
+  endpackage
+  package 'volume_388'
+    material 389
+    insert stl
+      FILE = 'sculpt_stls/Feature_388.stl'
+    endinsert
+  endpackage
+  package 'volume_389'
+    material 390
+    insert stl
+      FILE = 'sculpt_stls/Feature_389.stl'
+    endinsert
+  endpackage
+  package 'volume_390'
+    material 391
+    insert stl
+      FILE = 'sculpt_stls/Feature_390.stl'
+    endinsert
+  endpackage
+  package 'volume_391'
+    material 392
+    insert stl
+      FILE = 'sculpt_stls/Feature_391.stl'
+    endinsert
+  endpackage
+  package 'volume_392'
+    material 393
+    insert stl
+      FILE = 'sculpt_stls/Feature_392.stl'
+    endinsert
+  endpackage
+  package 'volume_393'
+    material 394
+    insert stl
+      FILE = 'sculpt_stls/Feature_393.stl'
+    endinsert
+  endpackage
+  package 'volume_394'
+    material 395
+    insert stl
+      FILE = 'sculpt_stls/Feature_394.stl'
+    endinsert
+  endpackage
+  package 'volume_395'
+    material 396
+    insert stl
+      FILE = 'sculpt_stls/Feature_395.stl'
+    endinsert
+  endpackage
+  package 'volume_396'
+    material 397
+    insert stl
+      FILE = 'sculpt_stls/Feature_396.stl'
+    endinsert
+  endpackage
+  package 'volume_397'
+    material 398
+    insert stl
+      FILE = 'sculpt_stls/Feature_397.stl'
+    endinsert
+  endpackage
+  package 'volume_398'
+    material 399
+    insert stl
+      FILE = 'sculpt_stls/Feature_398.stl'
+    endinsert
+  endpackage
+  package 'volume_399'
+    material 400
+    insert stl
+      FILE = 'sculpt_stls/Feature_399.stl'
+    endinsert
+  endpackage
+  package 'volume_400'
+    material 401
+    insert stl
+      FILE = 'sculpt_stls/Feature_400.stl'
+    endinsert
+  endpackage
+  package 'volume_401'
+    material 402
+    insert stl
+      FILE = 'sculpt_stls/Feature_401.stl'
+    endinsert
+  endpackage
+  package 'volume_402'
+    material 403
+    insert stl
+      FILE = 'sculpt_stls/Feature_402.stl'
+    endinsert
+  endpackage
+  package 'volume_403'
+    material 404
+    insert stl
+      FILE = 'sculpt_stls/Feature_403.stl'
+    endinsert
+  endpackage
+  package 'volume_404'
+    material 405
+    insert stl
+      FILE = 'sculpt_stls/Feature_404.stl'
+    endinsert
+  endpackage
+  package 'volume_405'
+    material 406
+    insert stl
+      FILE = 'sculpt_stls/Feature_405.stl'
+    endinsert
+  endpackage
+  package 'volume_406'
+    material 407
+    insert stl
+      FILE = 'sculpt_stls/Feature_406.stl'
+    endinsert
+  endpackage
+  package 'volume_407'
+    material 408
+    insert stl
+      FILE = 'sculpt_stls/Feature_407.stl'
+    endinsert
+  endpackage
+  package 'volume_408'
+    material 409
+    insert stl
+      FILE = 'sculpt_stls/Feature_408.stl'
+    endinsert
+  endpackage
+  package 'volume_409'
+    material 410
+    insert stl
+      FILE = 'sculpt_stls/Feature_409.stl'
+    endinsert
+  endpackage
+  package 'volume_410'
+    material 411
+    insert stl
+      FILE = 'sculpt_stls/Feature_410.stl'
+    endinsert
+  endpackage
+  package 'volume_411'
+    material 412
+    insert stl
+      FILE = 'sculpt_stls/Feature_411.stl'
+    endinsert
+  endpackage
+  package 'volume_412'
+    material 413
+    insert stl
+      FILE = 'sculpt_stls/Feature_412.stl'
+    endinsert
+  endpackage
+  package 'volume_413'
+    material 414
+    insert stl
+      FILE = 'sculpt_stls/Feature_413.stl'
+    endinsert
+  endpackage
+  package 'volume_414'
+    material 415
+    insert stl
+      FILE = 'sculpt_stls/Feature_414.stl'
+    endinsert
+  endpackage
+  package 'volume_415'
+    material 416
+    insert stl
+      FILE = 'sculpt_stls/Feature_415.stl'
+    endinsert
+  endpackage
+  package 'volume_416'
+    material 417
+    insert stl
+      FILE = 'sculpt_stls/Feature_416.stl'
+    endinsert
+  endpackage
+  package 'volume_417'
+    material 418
+    insert stl
+      FILE = 'sculpt_stls/Feature_417.stl'
+    endinsert
+  endpackage
+  package 'volume_418'
+    material 419
+    insert stl
+      FILE = 'sculpt_stls/Feature_418.stl'
+    endinsert
+  endpackage
+  package 'volume_419'
+    material 420
+    insert stl
+      FILE = 'sculpt_stls/Feature_419.stl'
+    endinsert
+  endpackage
+  package 'volume_420'
+    material 421
+    insert stl
+      FILE = 'sculpt_stls/Feature_420.stl'
+    endinsert
+  endpackage
+  package 'volume_421'
+    material 422
+    insert stl
+      FILE = 'sculpt_stls/Feature_421.stl'
+    endinsert
+  endpackage
+  package 'volume_422'
+    material 423
+    insert stl
+      FILE = 'sculpt_stls/Feature_422.stl'
+    endinsert
+  endpackage
+  package 'volume_423'
+    material 424
+    insert stl
+      FILE = 'sculpt_stls/Feature_423.stl'
+    endinsert
+  endpackage
+  package 'volume_424'
+    material 425
+    insert stl
+      FILE = 'sculpt_stls/Feature_424.stl'
+    endinsert
+  endpackage
+  package 'volume_425'
+    material 426
+    insert stl
+      FILE = 'sculpt_stls/Feature_425.stl'
+    endinsert
+  endpackage
+  package 'volume_426'
+    material 427
+    insert stl
+      FILE = 'sculpt_stls/Feature_426.stl'
+    endinsert
+  endpackage
+  package 'volume_427'
+    material 428
+    insert stl
+      FILE = 'sculpt_stls/Feature_427.stl'
+    endinsert
+  endpackage
+  package 'volume_428'
+    material 429
+    insert stl
+      FILE = 'sculpt_stls/Feature_428.stl'
+    endinsert
+  endpackage
+  package 'volume_429'
+    material 430
+    insert stl
+      FILE = 'sculpt_stls/Feature_429.stl'
+    endinsert
+  endpackage
+  package 'volume_430'
+    material 431
+    insert stl
+      FILE = 'sculpt_stls/Feature_430.stl'
+    endinsert
+  endpackage
+  package 'volume_431'
+    material 432
+    insert stl
+      FILE = 'sculpt_stls/Feature_431.stl'
+    endinsert
+  endpackage
+  package 'volume_432'
+    material 433
+    insert stl
+      FILE = 'sculpt_stls/Feature_432.stl'
+    endinsert
+  endpackage
+  package 'volume_433'
+    material 434
+    insert stl
+      FILE = 'sculpt_stls/Feature_433.stl'
+    endinsert
+  endpackage
+  package 'volume_434'
+    material 435
+    insert stl
+      FILE = 'sculpt_stls/Feature_434.stl'
+    endinsert
+  endpackage
+  package 'volume_435'
+    material 436
+    insert stl
+      FILE = 'sculpt_stls/Feature_435.stl'
+    endinsert
+  endpackage
+  package 'volume_436'
+    material 437
+    insert stl
+      FILE = 'sculpt_stls/Feature_436.stl'
+    endinsert
+  endpackage
+  package 'volume_437'
+    material 438
+    insert stl
+      FILE = 'sculpt_stls/Feature_437.stl'
+    endinsert
+  endpackage
+  package 'volume_438'
+    material 439
+    insert stl
+      FILE = 'sculpt_stls/Feature_438.stl'
+    endinsert
+  endpackage
+  package 'volume_439'
+    material 440
+    insert stl
+      FILE = 'sculpt_stls/Feature_439.stl'
+    endinsert
+  endpackage
+  package 'volume_440'
+    material 441
+    insert stl
+      FILE = 'sculpt_stls/Feature_440.stl'
+    endinsert
+  endpackage
+  package 'volume_441'
+    material 442
+    insert stl
+      FILE = 'sculpt_stls/Feature_441.stl'
+    endinsert
+  endpackage
+  package 'volume_442'
+    material 443
+    insert stl
+      FILE = 'sculpt_stls/Feature_442.stl'
+    endinsert
+  endpackage
+  package 'volume_443'
+    material 444
+    insert stl
+      FILE = 'sculpt_stls/Feature_443.stl'
+    endinsert
+  endpackage
+  package 'volume_444'
+    material 445
+    insert stl
+      FILE = 'sculpt_stls/Feature_444.stl'
+    endinsert
+  endpackage
+  package 'volume_445'
+    material 446
+    insert stl
+      FILE = 'sculpt_stls/Feature_445.stl'
+    endinsert
+  endpackage
+  package 'volume_446'
+    material 447
+    insert stl
+      FILE = 'sculpt_stls/Feature_446.stl'
+    endinsert
+  endpackage
+  package 'volume_447'
+    material 448
+    insert stl
+      FILE = 'sculpt_stls/Feature_447.stl'
+    endinsert
+  endpackage
+  package 'volume_448'
+    material 449
+    insert stl
+      FILE = 'sculpt_stls/Feature_448.stl'
+    endinsert
+  endpackage
+  package 'volume_449'
+    material 450
+    insert stl
+      FILE = 'sculpt_stls/Feature_449.stl'
+    endinsert
+  endpackage
+  package 'volume_450'
+    material 451
+    insert stl
+      FILE = 'sculpt_stls/Feature_450.stl'
+    endinsert
+  endpackage
+  package 'volume_451'
+    material 452
+    insert stl
+      FILE = 'sculpt_stls/Feature_451.stl'
+    endinsert
+  endpackage
+  package 'volume_452'
+    material 453
+    insert stl
+      FILE = 'sculpt_stls/Feature_452.stl'
+    endinsert
+  endpackage
+  package 'volume_453'
+    material 454
+    insert stl
+      FILE = 'sculpt_stls/Feature_453.stl'
+    endinsert
+  endpackage
+  package 'volume_454'
+    material 455
+    insert stl
+      FILE = 'sculpt_stls/Feature_454.stl'
+    endinsert
+  endpackage
+  package 'volume_455'
+    material 456
+    insert stl
+      FILE = 'sculpt_stls/Feature_455.stl'
+    endinsert
+  endpackage
+  package 'volume_456'
+    material 457
+    insert stl
+      FILE = 'sculpt_stls/Feature_456.stl'
+    endinsert
+  endpackage
+  package 'volume_457'
+    material 458
+    insert stl
+      FILE = 'sculpt_stls/Feature_457.stl'
+    endinsert
+  endpackage
+  package 'volume_458'
+    material 459
+    insert stl
+      FILE = 'sculpt_stls/Feature_458.stl'
+    endinsert
+  endpackage
+  package 'volume_459'
+    material 460
+    insert stl
+      FILE = 'sculpt_stls/Feature_459.stl'
+    endinsert
+  endpackage
+  package 'volume_460'
+    material 461
+    insert stl
+      FILE = 'sculpt_stls/Feature_460.stl'
+    endinsert
+  endpackage
+  package 'volume_461'
+    material 462
+    insert stl
+      FILE = 'sculpt_stls/Feature_461.stl'
+    endinsert
+  endpackage
+  package 'volume_462'
+    material 463
+    insert stl
+      FILE = 'sculpt_stls/Feature_462.stl'
+    endinsert
+  endpackage
+  package 'volume_463'
+    material 464
+    insert stl
+      FILE = 'sculpt_stls/Feature_463.stl'
+    endinsert
+  endpackage
+  package 'volume_464'
+    material 465
+    insert stl
+      FILE = 'sculpt_stls/Feature_464.stl'
+    endinsert
+  endpackage
+  package 'volume_465'
+    material 466
+    insert stl
+      FILE = 'sculpt_stls/Feature_465.stl'
+    endinsert
+  endpackage
+  package 'volume_466'
+    material 467
+    insert stl
+      FILE = 'sculpt_stls/Feature_466.stl'
+    endinsert
+  endpackage
+  package 'volume_467'
+    material 468
+    insert stl
+      FILE = 'sculpt_stls/Feature_467.stl'
+    endinsert
+  endpackage
+  package 'volume_468'
+    material 469
+    insert stl
+      FILE = 'sculpt_stls/Feature_468.stl'
+    endinsert
+  endpackage
+  package 'volume_469'
+    material 470
+    insert stl
+      FILE = 'sculpt_stls/Feature_469.stl'
+    endinsert
+  endpackage
+  package 'volume_470'
+    material 471
+    insert stl
+      FILE = 'sculpt_stls/Feature_470.stl'
+    endinsert
+  endpackage
+  package 'volume_471'
+    material 472
+    insert stl
+      FILE = 'sculpt_stls/Feature_471.stl'
+    endinsert
+  endpackage
+  package 'volume_472'
+    material 473
+    insert stl
+      FILE = 'sculpt_stls/Feature_472.stl'
+    endinsert
+  endpackage
+  package 'volume_473'
+    material 474
+    insert stl
+      FILE = 'sculpt_stls/Feature_473.stl'
+    endinsert
+  endpackage
+  package 'volume_474'
+    material 475
+    insert stl
+      FILE = 'sculpt_stls/Feature_474.stl'
+    endinsert
+  endpackage
+  package 'volume_475'
+    material 476
+    insert stl
+      FILE = 'sculpt_stls/Feature_475.stl'
+    endinsert
+  endpackage
+  package 'volume_476'
+    material 477
+    insert stl
+      FILE = 'sculpt_stls/Feature_476.stl'
+    endinsert
+  endpackage
+  package 'volume_477'
+    material 478
+    insert stl
+      FILE = 'sculpt_stls/Feature_477.stl'
+    endinsert
+  endpackage
+  package 'volume_478'
+    material 479
+    insert stl
+      FILE = 'sculpt_stls/Feature_478.stl'
+    endinsert
+  endpackage
+  package 'volume_479'
+    material 480
+    insert stl
+      FILE = 'sculpt_stls/Feature_479.stl'
+    endinsert
+  endpackage
+  package 'volume_480'
+    material 481
+    insert stl
+      FILE = 'sculpt_stls/Feature_480.stl'
+    endinsert
+  endpackage
+  package 'volume_481'
+    material 482
+    insert stl
+      FILE = 'sculpt_stls/Feature_481.stl'
+    endinsert
+  endpackage
+  package 'volume_482'
+    material 483
+    insert stl
+      FILE = 'sculpt_stls/Feature_482.stl'
+    endinsert
+  endpackage
+  package 'volume_483'
+    material 484
+    insert stl
+      FILE = 'sculpt_stls/Feature_483.stl'
+    endinsert
+  endpackage
+  package 'volume_484'
+    material 485
+    insert stl
+      FILE = 'sculpt_stls/Feature_484.stl'
+    endinsert
+  endpackage
+  package 'volume_485'
+    material 486
+    insert stl
+      FILE = 'sculpt_stls/Feature_485.stl'
+    endinsert
+  endpackage
+  package 'volume_486'
+    material 487
+    insert stl
+      FILE = 'sculpt_stls/Feature_486.stl'
+    endinsert
+  endpackage
+  package 'volume_487'
+    material 488
+    insert stl
+      FILE = 'sculpt_stls/Feature_487.stl'
+    endinsert
+  endpackage
+  package 'volume_488'
+    material 489
+    insert stl
+      FILE = 'sculpt_stls/Feature_488.stl'
+    endinsert
+  endpackage
+  package 'volume_489'
+    material 490
+    insert stl
+      FILE = 'sculpt_stls/Feature_489.stl'
+    endinsert
+  endpackage
+  package 'volume_490'
+    material 491
+    insert stl
+      FILE = 'sculpt_stls/Feature_490.stl'
+    endinsert
+  endpackage
+  package 'volume_491'
+    material 492
+    insert stl
+      FILE = 'sculpt_stls/Feature_491.stl'
+    endinsert
+  endpackage
+  package 'volume_492'
+    material 493
+    insert stl
+      FILE = 'sculpt_stls/Feature_492.stl'
+    endinsert
+  endpackage
+  package 'volume_493'
+    material 494
+    insert stl
+      FILE = 'sculpt_stls/Feature_493.stl'
+    endinsert
+  endpackage
+  package 'volume_494'
+    material 495
+    insert stl
+      FILE = 'sculpt_stls/Feature_494.stl'
+    endinsert
+  endpackage
+  package 'volume_495'
+    material 496
+    insert stl
+      FILE = 'sculpt_stls/Feature_495.stl'
+    endinsert
+  endpackage
+  package 'volume_496'
+    material 497
+    insert stl
+      FILE = 'sculpt_stls/Feature_496.stl'
+    endinsert
+  endpackage
+  package 'volume_497'
+    material 498
+    insert stl
+      FILE = 'sculpt_stls/Feature_497.stl'
+    endinsert
+  endpackage
+  package 'volume_498'
+    material 499
+    insert stl
+      FILE = 'sculpt_stls/Feature_498.stl'
+    endinsert
+  endpackage
+  package 'volume_499'
+    material 500
+    insert stl
+      FILE = 'sculpt_stls/Feature_499.stl'
+    endinsert
+  endpackage
+  package 'volume_500'
+    material 501
+    insert stl
+      FILE = 'sculpt_stls/Feature_500.stl'
+    endinsert
+  endpackage
+  package 'volume_501'
+    material 502
+    insert stl
+      FILE = 'sculpt_stls/Feature_501.stl'
+    endinsert
+  endpackage
+  package 'volume_502'
+    material 503
+    insert stl
+      FILE = 'sculpt_stls/Feature_502.stl'
+    endinsert
+  endpackage
+  package 'volume_503'
+    material 504
+    insert stl
+      FILE = 'sculpt_stls/Feature_503.stl'
+    endinsert
+  endpackage
+  package 'volume_504'
+    material 505
+    insert stl
+      FILE = 'sculpt_stls/Feature_504.stl'
+    endinsert
+  endpackage
+  package 'volume_505'
+    material 506
+    insert stl
+      FILE = 'sculpt_stls/Feature_505.stl'
+    endinsert
+  endpackage
+  package 'volume_506'
+    material 507
+    insert stl
+      FILE = 'sculpt_stls/Feature_506.stl'
+    endinsert
+  endpackage
+  package 'volume_507'
+    material 508
+    insert stl
+      FILE = 'sculpt_stls/Feature_507.stl'
+    endinsert
+  endpackage
+  package 'volume_508'
+    material 509
+    insert stl
+      FILE = 'sculpt_stls/Feature_508.stl'
+    endinsert
+  endpackage
+  package 'volume_509'
+    material 510
+    insert stl
+      FILE = 'sculpt_stls/Feature_509.stl'
+    endinsert
+  endpackage
+  package 'volume_510'
+    material 511
+    insert stl
+      FILE = 'sculpt_stls/Feature_510.stl'
+    endinsert
+  endpackage
+  package 'volume_511'
+    material 512
+    insert stl
+      FILE = 'sculpt_stls/Feature_511.stl'
+    endinsert
+  endpackage
+  package 'volume_512'
+    material 513
+    insert stl
+      FILE = 'sculpt_stls/Feature_512.stl'
+    endinsert
+  endpackage
+  package 'volume_513'
+    material 514
+    insert stl
+      FILE = 'sculpt_stls/Feature_513.stl'
+    endinsert
+  endpackage
+  package 'volume_514'
+    material 515
+    insert stl
+      FILE = 'sculpt_stls/Feature_514.stl'
+    endinsert
+  endpackage
+  package 'volume_515'
+    material 516
+    insert stl
+      FILE = 'sculpt_stls/Feature_515.stl'
+    endinsert
+  endpackage
+  package 'volume_516'
+    material 517
+    insert stl
+      FILE = 'sculpt_stls/Feature_516.stl'
+    endinsert
+  endpackage
+  package 'volume_517'
+    material 518
+    insert stl
+      FILE = 'sculpt_stls/Feature_517.stl'
+    endinsert
+  endpackage
+  package 'volume_518'
+    material 519
+    insert stl
+      FILE = 'sculpt_stls/Feature_518.stl'
+    endinsert
+  endpackage
+  package 'volume_519'
+    material 520
+    insert stl
+      FILE = 'sculpt_stls/Feature_519.stl'
+    endinsert
+  endpackage
+  package 'volume_520'
+    material 521
+    insert stl
+      FILE = 'sculpt_stls/Feature_520.stl'
+    endinsert
+  endpackage
+  package 'volume_521'
+    material 522
+    insert stl
+      FILE = 'sculpt_stls/Feature_521.stl'
+    endinsert
+  endpackage
+  package 'volume_522'
+    material 523
+    insert stl
+      FILE = 'sculpt_stls/Feature_522.stl'
+    endinsert
+  endpackage
+  package 'volume_523'
+    material 524
+    insert stl
+      FILE = 'sculpt_stls/Feature_523.stl'
+    endinsert
+  endpackage
+  package 'volume_524'
+    material 525
+    insert stl
+      FILE = 'sculpt_stls/Feature_524.stl'
+    endinsert
+  endpackage
+  package 'volume_525'
+    material 526
+    insert stl
+      FILE = 'sculpt_stls/Feature_525.stl'
+    endinsert
+  endpackage
+  package 'volume_526'
+    material 527
+    insert stl
+      FILE = 'sculpt_stls/Feature_526.stl'
+    endinsert
+  endpackage
+  package 'volume_527'
+    material 528
+    insert stl
+      FILE = 'sculpt_stls/Feature_527.stl'
+    endinsert
+  endpackage
+  package 'volume_528'
+    material 529
+    insert stl
+      FILE = 'sculpt_stls/Feature_528.stl'
+    endinsert
+  endpackage
+  package 'volume_529'
+    material 530
+    insert stl
+      FILE = 'sculpt_stls/Feature_529.stl'
+    endinsert
+  endpackage
+  package 'volume_530'
+    material 531
+    insert stl
+      FILE = 'sculpt_stls/Feature_530.stl'
+    endinsert
+  endpackage
+  package 'volume_531'
+    material 532
+    insert stl
+      FILE = 'sculpt_stls/Feature_531.stl'
+    endinsert
+  endpackage
+  package 'volume_532'
+    material 533
+    insert stl
+      FILE = 'sculpt_stls/Feature_532.stl'
+    endinsert
+  endpackage
+  package 'volume_533'
+    material 534
+    insert stl
+      FILE = 'sculpt_stls/Feature_533.stl'
+    endinsert
+  endpackage
+  package 'volume_534'
+    material 535
+    insert stl
+      FILE = 'sculpt_stls/Feature_534.stl'
+    endinsert
+  endpackage
+  package 'volume_535'
+    material 536
+    insert stl
+      FILE = 'sculpt_stls/Feature_535.stl'
+    endinsert
+  endpackage
+  package 'volume_536'
+    material 537
+    insert stl
+      FILE = 'sculpt_stls/Feature_536.stl'
+    endinsert
+  endpackage
+  package 'volume_537'
+    material 538
+    insert stl
+      FILE = 'sculpt_stls/Feature_537.stl'
+    endinsert
+  endpackage
+  package 'volume_538'
+    material 539
+    insert stl
+      FILE = 'sculpt_stls/Feature_538.stl'
+    endinsert
+  endpackage
+  package 'volume_539'
+    material 540
+    insert stl
+      FILE = 'sculpt_stls/Feature_539.stl'
+    endinsert
+  endpackage
+  package 'volume_540'
+    material 541
+    insert stl
+      FILE = 'sculpt_stls/Feature_540.stl'
+    endinsert
+  endpackage
+  package 'volume_541'
+    material 542
+    insert stl
+      FILE = 'sculpt_stls/Feature_541.stl'
+    endinsert
+  endpackage
+  package 'volume_542'
+    material 543
+    insert stl
+      FILE = 'sculpt_stls/Feature_542.stl'
+    endinsert
+  endpackage
+  package 'volume_543'
+    material 544
+    insert stl
+      FILE = 'sculpt_stls/Feature_543.stl'
+    endinsert
+  endpackage
+  package 'volume_544'
+    material 545
+    insert stl
+      FILE = 'sculpt_stls/Feature_544.stl'
+    endinsert
+  endpackage
+  package 'volume_545'
+    material 546
+    insert stl
+      FILE = 'sculpt_stls/Feature_545.stl'
+    endinsert
+  endpackage
+  package 'volume_546'
+    material 547
+    insert stl
+      FILE = 'sculpt_stls/Feature_546.stl'
+    endinsert
+  endpackage
+  package 'volume_547'
+    material 548
+    insert stl
+      FILE = 'sculpt_stls/Feature_547.stl'
+    endinsert
+  endpackage
+  package 'volume_548'
+    material 549
+    insert stl
+      FILE = 'sculpt_stls/Feature_548.stl'
+    endinsert
+  endpackage
+  package 'volume_549'
+    material 550
+    insert stl
+      FILE = 'sculpt_stls/Feature_549.stl'
+    endinsert
+  endpackage
+  package 'volume_550'
+    material 551
+    insert stl
+      FILE = 'sculpt_stls/Feature_550.stl'
+    endinsert
+  endpackage
+  package 'volume_551'
+    material 552
+    insert stl
+      FILE = 'sculpt_stls/Feature_551.stl'
+    endinsert
+  endpackage
+  package 'volume_552'
+    material 553
+    insert stl
+      FILE = 'sculpt_stls/Feature_552.stl'
+    endinsert
+  endpackage
+  package 'volume_553'
+    material 554
+    insert stl
+      FILE = 'sculpt_stls/Feature_553.stl'
+    endinsert
+  endpackage
+  package 'volume_554'
+    material 555
+    insert stl
+      FILE = 'sculpt_stls/Feature_554.stl'
+    endinsert
+  endpackage
+  package 'volume_555'
+    material 556
+    insert stl
+      FILE = 'sculpt_stls/Feature_555.stl'
+    endinsert
+  endpackage
+  package 'volume_556'
+    material 557
+    insert stl
+      FILE = 'sculpt_stls/Feature_556.stl'
+    endinsert
+  endpackage
+  package 'volume_557'
+    material 558
+    insert stl
+      FILE = 'sculpt_stls/Feature_557.stl'
+    endinsert
+  endpackage
+  package 'volume_558'
+    material 559
+    insert stl
+      FILE = 'sculpt_stls/Feature_558.stl'
+    endinsert
+  endpackage
+  package 'volume_559'
+    material 560
+    insert stl
+      FILE = 'sculpt_stls/Feature_559.stl'
+    endinsert
+  endpackage
+  package 'volume_560'
+    material 561
+    insert stl
+      FILE = 'sculpt_stls/Feature_560.stl'
+    endinsert
+  endpackage
+  package 'volume_561'
+    material 562
+    insert stl
+      FILE = 'sculpt_stls/Feature_561.stl'
+    endinsert
+  endpackage
+  package 'volume_562'
+    material 563
+    insert stl
+      FILE = 'sculpt_stls/Feature_562.stl'
+    endinsert
+  endpackage
+  package 'volume_563'
+    material 564
+    insert stl
+      FILE = 'sculpt_stls/Feature_563.stl'
+    endinsert
+  endpackage
+  package 'volume_564'
+    material 565
+    insert stl
+      FILE = 'sculpt_stls/Feature_564.stl'
+    endinsert
+  endpackage
+  package 'volume_565'
+    material 566
+    insert stl
+      FILE = 'sculpt_stls/Feature_565.stl'
+    endinsert
+  endpackage
+  package 'volume_566'
+    material 567
+    insert stl
+      FILE = 'sculpt_stls/Feature_566.stl'
+    endinsert
+  endpackage
+  package 'volume_567'
+    material 568
+    insert stl
+      FILE = 'sculpt_stls/Feature_567.stl'
+    endinsert
+  endpackage
+  package 'volume_568'
+    material 569
+    insert stl
+      FILE = 'sculpt_stls/Feature_568.stl'
+    endinsert
+  endpackage
+  package 'volume_569'
+    material 570
+    insert stl
+      FILE = 'sculpt_stls/Feature_569.stl'
+    endinsert
+  endpackage
+  package 'volume_570'
+    material 571
+    insert stl
+      FILE = 'sculpt_stls/Feature_570.stl'
+    endinsert
+  endpackage
+  package 'volume_571'
+    material 572
+    insert stl
+      FILE = 'sculpt_stls/Feature_571.stl'
+    endinsert
+  endpackage
+  package 'volume_572'
+    material 573
+    insert stl
+      FILE = 'sculpt_stls/Feature_572.stl'
+    endinsert
+  endpackage
+  package 'volume_573'
+    material 574
+    insert stl
+      FILE = 'sculpt_stls/Feature_573.stl'
+    endinsert
+  endpackage
+  package 'volume_574'
+    material 575
+    insert stl
+      FILE = 'sculpt_stls/Feature_574.stl'
+    endinsert
+  endpackage
+  package 'volume_575'
+    material 576
+    insert stl
+      FILE = 'sculpt_stls/Feature_575.stl'
+    endinsert
+  endpackage
+  package 'volume_576'
+    material 577
+    insert stl
+      FILE = 'sculpt_stls/Feature_576.stl'
+    endinsert
+  endpackage
+  package 'volume_577'
+    material 578
+    insert stl
+      FILE = 'sculpt_stls/Feature_577.stl'
+    endinsert
+  endpackage
+  package 'volume_578'
+    material 579
+    insert stl
+      FILE = 'sculpt_stls/Feature_578.stl'
+    endinsert
+  endpackage
+  package 'volume_579'
+    material 580
+    insert stl
+      FILE = 'sculpt_stls/Feature_579.stl'
+    endinsert
+  endpackage
+  package 'volume_580'
+    material 581
+    insert stl
+      FILE = 'sculpt_stls/Feature_580.stl'
+    endinsert
+  endpackage
+  package 'volume_581'
+    material 582
+    insert stl
+      FILE = 'sculpt_stls/Feature_581.stl'
+    endinsert
+  endpackage
+  package 'volume_582'
+    material 583
+    insert stl
+      FILE = 'sculpt_stls/Feature_582.stl'
+    endinsert
+  endpackage
+  package 'volume_583'
+    material 584
+    insert stl
+      FILE = 'sculpt_stls/Feature_583.stl'
+    endinsert
+  endpackage
+  package 'volume_584'
+    material 585
+    insert stl
+      FILE = 'sculpt_stls/Feature_584.stl'
+    endinsert
+  endpackage
+  package 'volume_585'
+    material 586
+    insert stl
+      FILE = 'sculpt_stls/Feature_585.stl'
+    endinsert
+  endpackage
+  package 'volume_586'
+    material 587
+    insert stl
+      FILE = 'sculpt_stls/Feature_586.stl'
+    endinsert
+  endpackage
+  package 'volume_587'
+    material 588
+    insert stl
+      FILE = 'sculpt_stls/Feature_587.stl'
+    endinsert
+  endpackage
+  package 'volume_588'
+    material 589
+    insert stl
+      FILE = 'sculpt_stls/Feature_588.stl'
+    endinsert
+  endpackage
+  package 'volume_589'
+    material 590
+    insert stl
+      FILE = 'sculpt_stls/Feature_589.stl'
+    endinsert
+  endpackage
+  package 'volume_590'
+    material 591
+    insert stl
+      FILE = 'sculpt_stls/Feature_590.stl'
+    endinsert
+  endpackage
+  package 'volume_591'
+    material 592
+    insert stl
+      FILE = 'sculpt_stls/Feature_591.stl'
+    endinsert
+  endpackage
+  package 'volume_592'
+    material 593
+    insert stl
+      FILE = 'sculpt_stls/Feature_592.stl'
+    endinsert
+  endpackage
+  package 'volume_593'
+    material 594
+    insert stl
+      FILE = 'sculpt_stls/Feature_593.stl'
+    endinsert
+  endpackage
+  package 'volume_594'
+    material 595
+    insert stl
+      FILE = 'sculpt_stls/Feature_594.stl'
+    endinsert
+  endpackage
+  package 'volume_595'
+    material 596
+    insert stl
+      FILE = 'sculpt_stls/Feature_595.stl'
+    endinsert
+  endpackage
+  package 'volume_596'
+    material 597
+    insert stl
+      FILE = 'sculpt_stls/Feature_596.stl'
+    endinsert
+  endpackage
+  package 'volume_597'
+    material 598
+    insert stl
+      FILE = 'sculpt_stls/Feature_597.stl'
+    endinsert
+  endpackage
+  package 'volume_598'
+    material 599
+    insert stl
+      FILE = 'sculpt_stls/Feature_598.stl'
+    endinsert
+  endpackage
+  package 'volume_599'
+    material 600
+    insert stl
+      FILE = 'sculpt_stls/Feature_599.stl'
+    endinsert
+  endpackage
+  package 'volume_600'
+    material 601
+    insert stl
+      FILE = 'sculpt_stls/Feature_600.stl'
+    endinsert
+  endpackage
+  package 'volume_601'
+    material 602
+    insert stl
+      FILE = 'sculpt_stls/Feature_601.stl'
+    endinsert
+  endpackage
+  package 'volume_602'
+    material 603
+    insert stl
+      FILE = 'sculpt_stls/Feature_602.stl'
+    endinsert
+  endpackage
+  package 'volume_603'
+    material 604
+    insert stl
+      FILE = 'sculpt_stls/Feature_603.stl'
+    endinsert
+  endpackage
+  package 'volume_604'
+    material 605
+    insert stl
+      FILE = 'sculpt_stls/Feature_604.stl'
+    endinsert
+  endpackage
+  package 'volume_605'
+    material 606
+    insert stl
+      FILE = 'sculpt_stls/Feature_605.stl'
+    endinsert
+  endpackage
+  package 'volume_606'
+    material 607
+    insert stl
+      FILE = 'sculpt_stls/Feature_606.stl'
+    endinsert
+  endpackage
+  package 'volume_607'
+    material 608
+    insert stl
+      FILE = 'sculpt_stls/Feature_607.stl'
+    endinsert
+  endpackage
+  package 'volume_608'
+    material 609
+    insert stl
+      FILE = 'sculpt_stls/Feature_608.stl'
+    endinsert
+  endpackage
+  package 'volume_609'
+    material 610
+    insert stl
+      FILE = 'sculpt_stls/Feature_609.stl'
+    endinsert
+  endpackage
+  package 'volume_610'
+    material 611
+    insert stl
+      FILE = 'sculpt_stls/Feature_610.stl'
+    endinsert
+  endpackage
+  package 'volume_611'
+    material 612
+    insert stl
+      FILE = 'sculpt_stls/Feature_611.stl'
+    endinsert
+  endpackage
+  package 'volume_612'
+    material 613
+    insert stl
+      FILE = 'sculpt_stls/Feature_612.stl'
+    endinsert
+  endpackage
+  package 'volume_613'
+    material 614
+    insert stl
+      FILE = 'sculpt_stls/Feature_613.stl'
+    endinsert
+  endpackage
+  package 'volume_614'
+    material 615
+    insert stl
+      FILE = 'sculpt_stls/Feature_614.stl'
+    endinsert
+  endpackage
+  package 'volume_615'
+    material 616
+    insert stl
+      FILE = 'sculpt_stls/Feature_615.stl'
+    endinsert
+  endpackage
+  package 'volume_616'
+    material 617
+    insert stl
+      FILE = 'sculpt_stls/Feature_616.stl'
+    endinsert
+  endpackage
+  package 'volume_617'
+    material 618
+    insert stl
+      FILE = 'sculpt_stls/Feature_617.stl'
+    endinsert
+  endpackage
+  package 'volume_618'
+    material 619
+    insert stl
+      FILE = 'sculpt_stls/Feature_618.stl'
+    endinsert
+  endpackage
+  package 'volume_619'
+    material 620
+    insert stl
+      FILE = 'sculpt_stls/Feature_619.stl'
+    endinsert
+  endpackage
+  package 'volume_620'
+    material 621
+    insert stl
+      FILE = 'sculpt_stls/Feature_620.stl'
+    endinsert
+  endpackage
+  package 'volume_621'
+    material 622
+    insert stl
+      FILE = 'sculpt_stls/Feature_621.stl'
+    endinsert
+  endpackage
+  package 'volume_622'
+    material 623
+    insert stl
+      FILE = 'sculpt_stls/Feature_622.stl'
+    endinsert
+  endpackage
+  package 'volume_623'
+    material 624
+    insert stl
+      FILE = 'sculpt_stls/Feature_623.stl'
+    endinsert
+  endpackage
+  package 'volume_624'
+    material 625
+    insert stl
+      FILE = 'sculpt_stls/Feature_624.stl'
+    endinsert
+  endpackage
+  package 'volume_625'
+    material 626
+    insert stl
+      FILE = 'sculpt_stls/Feature_625.stl'
+    endinsert
+  endpackage
+  package 'volume_626'
+    material 627
+    insert stl
+      FILE = 'sculpt_stls/Feature_626.stl'
+    endinsert
+  endpackage
+  package 'volume_627'
+    material 628
+    insert stl
+      FILE = 'sculpt_stls/Feature_627.stl'
+    endinsert
+  endpackage
+  package 'volume_628'
+    material 629
+    insert stl
+      FILE = 'sculpt_stls/Feature_628.stl'
+    endinsert
+  endpackage
+  package 'volume_629'
+    material 630
+    insert stl
+      FILE = 'sculpt_stls/Feature_629.stl'
+    endinsert
+  endpackage
+  package 'volume_630'
+    material 631
+    insert stl
+      FILE = 'sculpt_stls/Feature_630.stl'
+    endinsert
+  endpackage
+  package 'volume_631'
+    material 632
+    insert stl
+      FILE = 'sculpt_stls/Feature_631.stl'
+    endinsert
+  endpackage
+  package 'volume_632'
+    material 633
+    insert stl
+      FILE = 'sculpt_stls/Feature_632.stl'
+    endinsert
+  endpackage
+  package 'volume_633'
+    material 634
+    insert stl
+      FILE = 'sculpt_stls/Feature_633.stl'
+    endinsert
+  endpackage
+  package 'volume_634'
+    material 635
+    insert stl
+      FILE = 'sculpt_stls/Feature_634.stl'
+    endinsert
+  endpackage
+  package 'volume_635'
+    material 636
+    insert stl
+      FILE = 'sculpt_stls/Feature_635.stl'
+    endinsert
+  endpackage
+  package 'volume_636'
+    material 637
+    insert stl
+      FILE = 'sculpt_stls/Feature_636.stl'
+    endinsert
+  endpackage
+  package 'volume_637'
+    material 638
+    insert stl
+      FILE = 'sculpt_stls/Feature_637.stl'
+    endinsert
+  endpackage
+  package 'volume_638'
+    material 639
+    insert stl
+      FILE = 'sculpt_stls/Feature_638.stl'
+    endinsert
+  endpackage
+  package 'volume_639'
+    material 640
+    insert stl
+      FILE = 'sculpt_stls/Feature_639.stl'
+    endinsert
+  endpackage
+  package 'volume_640'
+    material 641
+    insert stl
+      FILE = 'sculpt_stls/Feature_640.stl'
+    endinsert
+  endpackage
+  package 'volume_641'
+    material 642
+    insert stl
+      FILE = 'sculpt_stls/Feature_641.stl'
+    endinsert
+  endpackage
+  package 'volume_642'
+    material 643
+    insert stl
+      FILE = 'sculpt_stls/Feature_642.stl'
+    endinsert
+  endpackage
+  package 'volume_643'
+    material 644
+    insert stl
+      FILE = 'sculpt_stls/Feature_643.stl'
+    endinsert
+  endpackage
+  package 'volume_644'
+    material 645
+    insert stl
+      FILE = 'sculpt_stls/Feature_644.stl'
+    endinsert
+  endpackage
+  package 'volume_645'
+    material 646
+    insert stl
+      FILE = 'sculpt_stls/Feature_645.stl'
+    endinsert
+  endpackage
+  package 'volume_646'
+    material 647
+    insert stl
+      FILE = 'sculpt_stls/Feature_646.stl'
+    endinsert
+  endpackage
+  package 'volume_647'
+    material 648
+    insert stl
+      FILE = 'sculpt_stls/Feature_647.stl'
+    endinsert
+  endpackage
+  package 'volume_648'
+    material 649
+    insert stl
+      FILE = 'sculpt_stls/Feature_648.stl'
+    endinsert
+  endpackage
+  package 'volume_649'
+    material 650
+    insert stl
+      FILE = 'sculpt_stls/Feature_649.stl'
+    endinsert
+  endpackage
+  package 'volume_650'
+    material 651
+    insert stl
+      FILE = 'sculpt_stls/Feature_650.stl'
+    endinsert
+  endpackage
+enddiatom
